@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  text-align: center;
+  /*font-family: "Brush Script MT", cursive;*/
+  /*font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;*/
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+
+p{
+  font-size:1.5rem;
+}
+
+hr{
+  border-style: none;
+  border-top-style:inset;
+  border-width: 0.5rem;
+  width: 100%;
+}
+
+h1{
+  margin: 0.5rem auto 0 auto;
+  font-size: 3rem;
+  width: 20%;
+}
+
+h2{
+  font-size: 2.5rem;
+}
+
+h3{
+  font-size: 2rem;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 6.5rem;
+  padding-bottom: 0.5rem;
+  background-color: #EEF1FF;
+
+}
+
+.middle-container{
+  position: relative;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin-top: 3rem;
+}
+
+.bottom-container{
+  position: relative;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.cloud1{
+  position: absolute;
+  right: 10rem;
+  top :50px;
+
+}
+
+.cloud2{
+  position: absolute;
+  left: 10rem;
+}
+
+.mountain{
+  position: relative;
+  bottom:3rem;
+  left: 0.5rem;
+  height: 21rem;
+  width: 35rem;
+}
+
+/*
+.cloud1{
+  display: block;
+  position: relative;
+  left : 65%;
+  top: 30px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 20%;
+
+}
+*/
+.pro{
+  text-decoration: underline;
+}
